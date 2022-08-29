@@ -9,9 +9,29 @@ This project was made for a mini project in school. Feel free to improve the cod
 [![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
 
 ### Screenshots
-![alt text](https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/main.png)
-![alt text](https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/employee_login.png)
-![alt text](https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/bill_window.png)
-![alt text](https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/update_employee.png)
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/main.png">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/employee_login.png">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/bill_window.png">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/bill_window.png">
+</div>
+
+
+
+
+
 
 
