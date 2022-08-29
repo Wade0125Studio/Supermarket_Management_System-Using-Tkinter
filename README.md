@@ -5,7 +5,8 @@ This project was made for a mini project in school. Feel free to improve the cod
 ## This repository consists of a GUI-based Retail Management System in Python(using tkinter). 
 
 ### Pre-Requisites
-`Python 3.7`
+[![powered by](https://img.shields.io/badge/Powered%20by-Python%203-blue)](https://www.python.org/)
+[![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
 
 ### Screenshots
 ![alt text](https://github.com/realmacaw/real-mart/blob/master/images/main.png)
