@@ -10,9 +10,9 @@ This project was made for a mini project in school. Feel free to improve the cod
 
 ### Screenshots
 
-<div align="center">
+
 <img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/main.png">
-</div>
+
 
 
 <div align="center">
