@@ -45,9 +45,11 @@ This project was made for a mini project in school. Feel free to improve the cod
 <div align="center">
 <img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/update_product.png">
 </div>
---------------
-## How to run this application:
-Please downloads this repository and double click main.exe
+
+------------
+
+## How to run this application:Please downloads this repository and double click main.exe
+
 
 
 
