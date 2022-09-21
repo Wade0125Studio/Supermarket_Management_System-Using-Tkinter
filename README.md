@@ -48,7 +48,9 @@ This project was made for a mini project in school. Feel free to improve the cod
 
 ------------
 
-## How to run this application:Please downloads this repository and double click main.exe
+## HOW TO RUN?
+Run main.exe or main.py file.
+
 
 
 
