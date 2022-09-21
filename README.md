@@ -20,7 +20,30 @@ This project was made for a mini project in school. Feel free to improve the cod
 </div>
 
 <div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/emp_demo.PNG">
+</div>
+
+<div align="center">
 <img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/admin_login.png">
+</div>
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/ad_in.PNG">
+</div>
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/ad_invoices.PNG">
+</div>
+
+
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/update_employee.png">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/update_product.png">
 </div>
 
 
