@@ -16,18 +16,15 @@ This project was made for a mini project in school. Feel free to improve the cod
 
 
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/employee_login.png">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/employee_login.png">
 </div>
-
 
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/bill_window.png">
+<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/blob/main/images/admin_login.png">
 </div>
 
 
-<div align="center">
-<img src="https://github.com/Wade0125Studio/Supermarket_Management_System-Using-Tkinter/tree/main/images/bill_window.png">
-</div>
+
 
 
 
